@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.login-form input {
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
